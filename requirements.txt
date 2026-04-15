@@ -12,7 +12,5 @@ mypy
 openunmix
 pyyaml
 submitit
-torch>=1.8.1
 tqdm
 treetable
-soundfile>=0.10.3;sys_platform=="win32"
